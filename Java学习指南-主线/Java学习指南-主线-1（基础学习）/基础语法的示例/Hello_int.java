@@ -5,7 +5,7 @@ public class Hello_int
 
 	public static void main(String[] args)
 	{
-		String Hello = "Hello World !";
+		int Hello = 1;
 		System.out.println(Hello);
 	}
 
