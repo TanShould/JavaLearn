@@ -5,6 +5,16 @@ public class Hello_AO
 
 	public static void main(String[] args)
 	{
+		/* 
+		
+		算术操作符，用于进行算术运算，常见的有
+		+ 加法运算
+		- 减法运算
+		* 乘法运算
+		/ 除法运算
+		% 模运算
+		
+		*/
 		int a = 10;
 		int b = 5;
 		int c = a + b;
