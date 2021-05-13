@@ -1,0 +1,24 @@
+package my;
+
+public class Hello_for_c
+{
+
+	public static void main(String[] args)
+	{
+		int result = 0;
+		int i=1;
+		for ( ; ; )
+		{
+			if (i>10)
+			{
+				break;
+			}
+			
+			result = result + i;
+			i = i +1;
+		}
+		
+		System.out.println("结果："+result);
+	}
+
+}
