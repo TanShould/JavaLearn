@@ -5,6 +5,7 @@ public class Hello_Array
 
 	public static void main(String[] args)
 	{
+		//定义一个int类型的数组并用已知的方法对其进行初始化
 		int[] a = new int [5];
 		int b = 0;
 		int c = 1;
